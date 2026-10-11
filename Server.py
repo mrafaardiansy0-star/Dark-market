@@ -23,7 +23,7 @@ from datetime import datetime, timedelta
 #   CONFIG
 # ============================================================
 
-SECRET_KEY = secrets.token_hex(32)
+SECRET_KEY = "darkmarket123"
 ALGORITHM = "HS256"
 DB_FILE = "darkmarket.db"
 HOST = "0.0.0.0"
